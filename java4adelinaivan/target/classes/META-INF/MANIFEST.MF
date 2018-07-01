@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: playground
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Adelina Ivan
+Implementation-Vendor-Id: ro.telecad
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/java4adelinaivan
+Created-By: Maven Integration for Eclipse
+
